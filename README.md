@@ -1,0 +1,1 @@
+Programa com um menu 1) somar, 2)subtrair, 3)multiplicar ou 4)sair. Ao escolher uma das três primeiras opções o programa solicita dois números ao usuário e mostra o resultado. Enquanto o usuário não selecionar a opção 4 o programa continua.
